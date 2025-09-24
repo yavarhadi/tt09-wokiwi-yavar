@@ -9,11 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
+
 some change in in/out
 
 ## How to test
 
-Explain how to use your project
+set inputa with 10hz frequncy clock
 
 ## External hardware
 
